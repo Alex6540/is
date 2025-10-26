@@ -1,21 +1,11 @@
-# ИС
+# alex6540-is-components
 
-Сделать аккаунт на гитхабе.
-Установить:
-git
-github desktop
-vs code
-node.js 24
+Моя кастомная библиотека Vue 3 компонентов с улучшенными стилями кнопок.
 
----
+## Установка
 
-Склонировать себе на компьютер репозиторий https://github.com/dergunovs/is
+```bash
+npm install alex6540-is-components
 
-ввести в терминале:
-git clone https://github.com/dergunovs/is.git
-
-открыть появившуюся папку в vs code
-
-открыть терминал в vs code
-
-написать в терминале в vs code: npm install
+## Использование
+import { UiButton } from 'alex6540-is-components';

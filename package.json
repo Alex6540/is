@@ -1,7 +1,12 @@
 {
-  "name": "is-components-new",
-  "description": "Is components",
+  "name": "alex6540-is-components-ui",
+  "description": "My component library with custom styles",
+  "author": "Alex6540",
   "version": "0.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex6540/is"
+  },
   "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
